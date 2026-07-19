@@ -10,7 +10,7 @@ defaults:
     values:
       layout: single
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 custom_css:
   - /assets/css/custom.css
