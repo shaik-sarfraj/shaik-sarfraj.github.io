@@ -5,7 +5,7 @@ author_profile: true
 permalink: /portfolio/python/
 ---
 
-<img src="/assets/images/projects/python/heatmap-main.png" class="project-main-image" alt="Python Heat Map Analysis">
+<img src="/assets/images/projects/python/heatmap_main.png" class="project-main-image" alt="Python Heat Map Analysis">
 
 ## Overview
 
@@ -47,6 +47,6 @@ The project produced:
 
 **Python | Jupyter Notebook | Pandas | Data Visualisation | Urban Analytics**
 
-[View Project Report](/assets/files/python/BENV7500_A2_z5586793_report.pdf)
+[View Project Report](/assets/files/BENV7500_A2_z5586793_report.pdf)
 
 [View Python Notebook](GitHub notebook link)
