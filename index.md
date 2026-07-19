@@ -46,7 +46,7 @@ The study demonstrates the use of geospatial methods for environmental assessmen
 
 ---
 
-### Urban Design & Transit-Oriented Development — Belmore
+### [Urban Design & Transit-Oriented Development — Belmore](/portfolio/belmore/)
 
 An urban design and transit-oriented development framework developed for the Belmore precinct, exploring built form strategies, public realm improvements, accessibility, and responses to future growth.
 
