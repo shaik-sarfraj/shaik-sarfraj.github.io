@@ -12,3 +12,8 @@ defaults:
 
 head_scripts:
   - /assets/css/custom.css
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+custom_css:
+  - /assets/css/custom.css
