@@ -36,7 +36,7 @@ This includes my undergraduate thesis research and academic spatial analysis pro
 
 ---
 
-### Research Publication — GIS-Based Drought Assessment for Water-Sensitive Urban Planning in Anantapur District
+### [Research Publication — GIS-Based Drought Assessment for Water-Sensitive Urban Planning in Anantapur District](/portfolio/publication)
 
 Published in the *Journal of Environmental Engineering and Science* by Emerald Publishing, this peer-reviewed research applies GIS-based spatial analysis to evaluate water-sensitive urban development principles and environmental performance.
 
