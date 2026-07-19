@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "Research Publication — GIS-based drought assessment for water-sensitive urban planning in Anantapur District"
+excerpt: "A peer-reviewed research publication applying GIS-based spatial analysis to evaluate drought vulnerability and water-sensitive urban development strategies."
 author_profile: true
 ---
 
