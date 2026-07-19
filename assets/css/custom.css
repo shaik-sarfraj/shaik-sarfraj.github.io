@@ -1,1 +1,7 @@
-
+.project-image {
+  width: 100%;
+  max-width: 850px;
+  height: auto;
+  display: block;
+  margin: 25px auto;
+}
