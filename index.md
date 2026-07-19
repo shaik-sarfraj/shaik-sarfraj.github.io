@@ -26,11 +26,11 @@ Projects demonstrating the application of Python for geospatial data processing,
 
 ---
 
-### GIS Applications, Spatial Modelling & Research Publication
+### GIS Applications & Spatial Modelling
 
 A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support frameworks.
 
-This includes my undergraduate thesis research, academic spatial analysis projects, and published research applying GIS-based methodologies to investigate environmental and urban systems. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
+This includes my undergraduate thesis research and academic spatial analysis projects to investigate urban systems. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
 
 **Tools:** ArcGIS Pro | QGIS | Spatial Analysis | Urban Analytics
 
