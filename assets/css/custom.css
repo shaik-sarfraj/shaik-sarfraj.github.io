@@ -32,11 +32,20 @@ body{
 .page__title{
     font-size:2.2rem;
     font-weight:700;
-    color:#12355B;
+    color:#12355B !important;
 }
 
-h1,h2,h3,h4{
-    color:#12355B;
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4{
+    color:#12355B !important;
+}
+
+.page__content h2,
+.page__content h3,
+.page__content h4{
     margin-top:2.2rem;
     margin-bottom:1rem;
 }
