@@ -31,7 +31,7 @@ The methodology demonstrates the role of GIS-based modelling in supporting evide
 **Journal:** Journal of Environmental Engineering and Science  
 **Publisher:** Emerald Publishing  
 
-[View Publication](https://www.emerald.com/jenes/article-abstract/20/2/157/1243012/GIS-based-drought-assessment-for-water-sensitive?redirectedFrom=fulltext)
+View Publication: Emerald Publishing journal article
 
 ## Tools
 
