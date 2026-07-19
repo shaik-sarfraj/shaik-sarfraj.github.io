@@ -10,7 +10,7 @@ Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising 
 
 ## Featured Projects
 
-### Development of a Composite Spatial Index for Evaluating Quality of Public Life in Urban Precincts through Public Space Performance 
+### [Development of a Composite Spatial Index for Evaluating Quality of Public Life in Urban Precincts through Public Space Performance](/portfolio/thesis/) 
 
 A GIS-based composite index developed as part of my UNSW Master's thesis to evaluate quality of public life across Sydney precincts. The framework integrates multiple spatial indicators through GIS-based modelling, entropy weighting, and Python-supported raster processing workflows.
 
