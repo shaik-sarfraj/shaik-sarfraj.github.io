@@ -8,13 +8,27 @@ title: "GIS & Urban Analytics Portfolio"
 
 Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising in **Geographic Information Systems (GIS) and Python-based spatial analysis**. My work combines geospatial technologies, data-driven methods, and planning knowledge to investigate complex urban systems across India and Australia, including public space evaluation, accessibility analysis, transport systems research, and published research on GIS-based environmental assessment. I am particularly interested in urban analytics, planning consulting, transport-oriented development, and public realm planning. I aim to translate complex urban issues into clear analytical and visual outputs through geospatial analysis and data-driven approaches.
 
-## Featured Projects
+<div class="project-card">
 
-### [Development of a Composite Spatial Index for Evaluating Quality of Public Life in Urban Precincts through Public Space Performance](/portfolio/thesis/) 
+<h3>
+<a href="/portfolio/thesis/">
+Development of a Composite Spatial Index for Evaluating Quality of Public Life
+</a>
+</h3>
 
-A GIS-based composite index developed as part of my UNSW Master's thesis to evaluate quality of public life across Sydney precincts. The framework integrates multiple spatial indicators through GIS-based modelling, entropy weighting, and Python-supported raster processing workflows.
+<p>
+A GIS-based composite spatial index developed as part of my UNSW Master's thesis, integrating GIS, Python-assisted raster processing, and entropy-based weighting to evaluate variations in quality of public life across Sydney precincts.
+</p>
 
-**Tools:** ArcGIS Pro | Python | Raster Analysis | Spatial Modelling | Entropy Weighting
+<p>
+<strong>Tools:</strong> ArcGIS Pro • Python • Raster Analysis • Spatial Modelling
+</p>
+
+<p>
+<a class="project-button" href="/portfolio/thesis/">View Project →</a>
+</p>
+
+</div>
 
 ---
 
