@@ -35,4 +35,4 @@ It demonstrates the integration of planning knowledge, policy interpretation, an
 
 ## Project Documentation
 
-[View Assignment Report](/assets/files/pSarfraj_Shaik_z5586793_PLAN7140_NSWEPA_Act1979.pdf)
+[View Assignment Report](/assets/files/Sarfraj_Shaik_z5586793_PLAN7140_NSWEPA_Act1979.pdf)
