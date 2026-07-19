@@ -30,13 +30,13 @@ Projects demonstrating the application of Python for geospatial data processing,
 
 A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support frameworks.
 
-This includes my undergraduate thesis research and academic spatial analysis projects to investigate urban systems. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
+This includes my undergraduate thesis research and academic spatial analysis projects to investigate urban systems and spatial patterns. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
 
 **Tools:** ArcGIS Pro | QGIS | Spatial Analysis | Urban Analytics
 
 ---
 
-### Research Publication — GIS-based drought assessment for water-sensitive urban planning in Anantapur District
+### Research Publication — GIS-Based Drought Assessment for Water-Sensitive Urban Planning in Anantapur District
 
 Published in the *Journal of Environmental Engineering and Science* by Emerald Publishing, this peer-reviewed research applies GIS-based spatial analysis to evaluate water-sensitive urban development principles and environmental performance.
 
