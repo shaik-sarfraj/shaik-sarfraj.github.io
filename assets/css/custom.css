@@ -1,7 +1,6 @@
 .project-image {
-  width: 450px;
-  max-width: 90%;
-  height: auto;
+  width: 300px !important;
+  height: auto !important;
   display: block;
   margin: 25px auto;
 }
