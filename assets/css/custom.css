@@ -1,6 +1,15 @@
-.project-image {
-  width: 300px !important;
-  height: auto !important;
+.project-main-image {
+  width: 200px;
+  max-width: 90%;
+  height: auto;
   display: block;
-  margin: 25px auto;
+  margin: 20px auto;
+}
+
+.project-image {
+  width: 250px;
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
