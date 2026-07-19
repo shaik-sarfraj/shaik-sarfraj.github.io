@@ -52,3 +52,47 @@ The project produced:
 [View Python Notebook One](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook_one.ipynb)
 
 [View Python Notebook Two](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook_two.ipynb)
+
+---
+
+# Python-Based Environmental Data Analysis — Analysing the impact of urban configurations on wind speed around buildings in urban neighbourhoods from high-resolution numerical simulations
+
+<img src="/assets/images/projects/python/windspeed-main.jpeg" class="project-main-image" alt="Python Wind Speed Analysis">
+
+## Overview
+
+A Python-based environmental data analysis project developed to investigate wind speed patterns through computational processing and visualisation.
+
+The project applies programming-based analytical workflows to process environmental datasets, identify variations, and communicate spatial and temporal patterns through graphical outputs.
+
+The study demonstrates how Python-based methods can support environmental analysis by enabling efficient data manipulation, statistical exploration, and visual interpretation.
+
+<img src="/assets/images/projects/python/windspeed-1.png" alt="Python Wind Speed Analysis">
+
+## Methodology
+
+The workflow involved:
+
+- Preparing and processing environmental datasets for analysis.
+- Applying Python-based data manipulation techniques to organise and analyse observations.
+- Conducting statistical exploration to identify variations in wind speed patterns.
+- Developing visual outputs to communicate environmental trends and relationships.
+- Interpreting results through an analytical framework linking environmental data with urban applications.
+
+<img src="/assets/images/projects/python/windspeed-2.png" alt="Python Wind Speed Analysis">
+
+## Key Outputs
+
+The project generated:
+
+- Visual representations of wind speed variations.
+- Analytical outputs derived from Python-based workflows.
+- A documented computational process through Jupyter Notebook.
+
+## Tools
+
+**Python | Jupyter Notebook | Pandas | Data Analysis | Data Visualisation**
+
+[View Project Report](/assets/files/project_report.pdf)
+
+[View Python Notebook](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook.ipynb))
