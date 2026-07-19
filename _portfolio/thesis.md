@@ -14,7 +14,7 @@ The research develops a multi-dimensional assessment framework by integrating en
 
 The framework demonstrates the application of geospatial technologies for urban analytics by linking statistical evaluation at the SA2 administrative level with continuous raster-based spatial modelling, enabling both precinct-level comparison and fine-scale interpretation of spatial variations.
 
-![Methodology](images/thesis-indicators.png)
+![Quality of Public life versus Quality of life](images/thesis-indicators.png)
 
 ## Methodology
 
@@ -33,14 +33,15 @@ The workflow integrates spatial data processing, statistical computation, and GI
 
 ![Composite Index Scoring](images/thesis-raster.png)
 
+## Key Outcomes
+
+- Developed a GIS-based composite index integrating 11 urban indicators to evaluate quality of public life.
+- Applied entropy-based weighting to objectively determine indicator importance based on spatial variation.
+- Combined SA2-level statistical analysis with raster-based spatial modelling to capture both precinct-level differences and intra-precinct variations.
+- Developed Python-assisted geospatial data processing.
+
+[View Full Thesis Report](documents/Sarfraj_Shaik_MCP_Thesis.pdf)
+
 ## Tools
 
 **ArcGIS Pro | Python | Raster Analysis | Spatial Modelling | Entropy Weighting | Spatial Data Processing**
-
-## Project Visualisation
-
-![Quality of Public Life Index](main.png)
-
-## Additional Outputs
-
-Additional maps, analytical outputs, and supporting documentation will be added here.
