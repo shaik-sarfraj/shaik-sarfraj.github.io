@@ -6,7 +6,7 @@ author_profile: true
 
 <img src="/assets/images/projects/publication/publication-main.png" class="project-main-image" alt="GIS-based Drought Assessment Publication">
 
-## Overview
+## Overview 
 
 A peer-reviewed research publication investigating GIS-based approaches for assessing drought vulnerability and supporting water-sensitive urban planning in Anantapur District, Andhra Pradesh, India.
 
