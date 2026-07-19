@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "Development of a Composite Spatial Index for Evaluating Quality of Public Life in Urban Precincts through Public Space Performance"
+excerpt: "A GIS-based composite index developed as part of my UNSW Master's thesis."
 author_profile: true
 ---
 
