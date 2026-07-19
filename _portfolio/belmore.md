@@ -14,7 +14,7 @@ The project explores opportunities to accommodate future growth while enhancing 
 
 The framework investigates the relationship between transport accessibility, urban form, and community needs to develop design interventions that support a more connected, liveable, and people-focused precinct.
 
-![Belmore Design Proposal](/assets/images/belmore/belmore-01.png)
+![Belmore Design Proposal](/assets/images/projects/belmore/belmore-01.png)
 
 ## Design Approach
 
@@ -25,7 +25,7 @@ The project applies an urban design methodology focused on:
 - Development of built form strategies responding to transport accessibility and future population growth.
 - Integration of urban design principles including active frontages, mixed-use development, public space enhancement, and human-scale environments.
 
-![Belmore Design Strategy](/assets/images/belmore/belmore-02.png)
+![Belmore Design Strategy](/assets/images/projects/belmore/belmore-02.png)
 
 ## Key Design Outcomes
 
@@ -36,9 +36,9 @@ The proposed framework focuses on:
 - Supporting transit-oriented growth through context-sensitive built form strategies.
 - Creating a stronger relationship between development, transport infrastructure, and public life.
 
-![Belmore Masterplan](/assets/images/belmore/belmore-03.png)
+![Belmore Masterplan](/assets/images/projects/belmore/belmore-03.png)
 
-![Belmore Visualisation](/assets/images/belmore/belmore-04.png)
+![Belmore Visualisation](/assets/images/projects/belmore/belmore-04.png)
 
 ## Tools
 
