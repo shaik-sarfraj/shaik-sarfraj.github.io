@@ -49,6 +49,6 @@ The project produced:
 
 [View Project Report](/assets/files/BENV7500_A2_z5586793_report.pdf)
 
-[View Python Notebook One](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/_notebooks/notebook_one.ipynb)
+[View Python Notebook One](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook_one.ipynb)
 
-[View Python Notebook Two](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/_notebooks/notebook_two.ipynb)
+[View Python Notebook Two](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook_two.ipynb)
