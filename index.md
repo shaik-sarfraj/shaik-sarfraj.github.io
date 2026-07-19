@@ -26,7 +26,7 @@ Projects demonstrating the application of Python for geospatial data processing,
 
 ---
 
-### GIS Applications & Spatial Modelling
+### [GIS Applications & Spatial Modelling](/portfolio/gis/)
 
 A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support frameworks.
 
