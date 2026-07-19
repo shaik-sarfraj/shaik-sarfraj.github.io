@@ -56,11 +56,11 @@ The project integrates urban design principles with spatial analysis to evaluate
 
 ---
 
-### Environmental Planning & Policy Analysis
+### Planning Legislation Analysis — NSW Environmental Planning and Assessment Act 1979
 
-Research projects exploring environmental systems, sustainable development, and the relationship between spatial analysis and planning outcomes.
+A critical analysis of statutory decision-making priorities under Section 4.15 of the NSW Environmental Planning and Assessment Act 1979, examining how legislative frameworks guide development assessment and planning outcomes.
 
-**Tools:** GIS | Environmental Analysis | Policy Analysis | Research Methods
+**Tools:** Planning Legislation | Policy Analysis | Research Methods
 
 ---
 
