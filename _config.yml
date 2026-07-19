@@ -9,3 +9,6 @@ defaults:
       type: portfolio
     values:
       layout: single
+
+head_scripts:
+  - /assets/css/custom.css
