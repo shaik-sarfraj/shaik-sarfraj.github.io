@@ -74,3 +74,17 @@ Python, Spatial Data Processing, Statistical Analysis, Data Visualisation
 
 **Planning & Design Tools:**  
 SketchUp, AutoCAD, Adobe Photoshop, Canva, Urban Analytics, Transport Planning
+
+---
+
+## Contact
+
+Interested in graduate and internship opportunities where GIS, urban analytics, and geospatial data analysis can support evidence-based planning and the development of sustainable urban solutions.
+
+**Email:** s4shaiksarfraj@gmail.com
+
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7)
+
+**Mobile:** 0416 196 684
+
+---
