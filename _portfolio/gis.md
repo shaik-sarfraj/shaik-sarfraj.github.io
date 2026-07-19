@@ -53,7 +53,7 @@ The study demonstrates the role of GIS-based analytical frameworks in bridging l
 
 **ArcGIS Pro | GIS Modelling | Spatial Analysis | Fuzzy AHP | Transport Planning | Multi-Criteria Decision Analysis**
 
-[View Undergraduate Thesis Report](/assets/files/gis-applications/2200200314-REVIEW 6 EDITED(1).pdf)
+[View Undergraduate Thesis Report](/assets/files/gis-applications/ugthesis_report.pdf)
 
 ---
 
