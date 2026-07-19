@@ -6,40 +6,71 @@ title: "GIS & Urban Analytics Portfolio"
 
 ## About Me
 
-I am Sarfraj Shaik, a Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising in Geographic Information Systems (GIS), Python-based spatial analysis, and urban analytics.
-
-My work focuses on applying geospatial technologies and data-driven approaches to understand urban systems, including public space performance, accessibility, mobility, and sustainable urban development.
-
-Through academic research, planning projects, and spatial analysis workflows, I explore how data and technology can support better decision-making for cities.
+Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising in **Geographic Information Systems (GIS) and Python-based spatial analysis**. My work combines geospatial technologies, data-driven methods, and planning knowledge to investigate complex urban systems across India and Australia, including public space evaluation, accessibility analysis, transport systems research, and published research on GIS-based environmental assessment. I am particularly interested in urban analytics, planning consulting, transport-oriented development, and public realm planning. I aim to translate complex urban issues into clear analytical and visual outputs through geospatial analysis and data-driven approaches.
 
 ## Featured Projects
 
-### Quality of Public Life Index — Sydney Precincts
+### Development of a Composite Spatial Index for Evaluating Quality of Public Life in Urban Precincts through Public Space Performance 
 
-A GIS and entropy-based spatial index developed as part of my UNSW Master's thesis to evaluate quality of public life across Sydney precincts by integrating accessibility, public space, and urban performance indicators.
+A GIS-based composite index developed as part of my UNSW Master's thesis to evaluate quality of public life across Sydney precincts. The framework integrates multiple spatial indicators through GIS-based modelling, entropy weighting, and Python-supported raster processing workflows.
 
-**Tools:** ArcGIS Pro | Python | Spatial Analysis | Urban Analytics
-
----
-
-### Transit-Oriented Development Framework — Belmore
-
-A strategic TOD framework exploring population growth, accessibility, public realm improvements, and infrastructure responses within a Sydney transport corridor.
-
-**Tools:** GIS | Urban Design | Spatial Analysis | Planning Analysis
+**Tools:** ArcGIS Pro | Python | Raster Analysis | Spatial Modelling | Entropy Weighting
 
 ---
 
-### Python & Urban Analytics
+### Python-Based Geospatial Analysis & Data Workflows
 
-Projects involving Python-based data processing, statistical analysis, and urban environmental modelling developed through the Programmable Cities course at UNSW.
+Projects demonstrating the application of Python for geospatial data processing, statistical analysis, and spatial modelling. These workflows involve transforming spatial datasets into meaningful analytical outputs for urban research and decision-making.
 
-**Tools:** Python | Data Analysis | Visualisation | Urban Data
+**Tools:** Python | GeoPandas | Pandas | ArcGIS Pro | Spatial Analysis | Data Visualisation
+
+---
+
+### GIS Applications, Spatial Modelling & Research Publication
+
+A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support frameworks.
+
+This includes my undergraduate thesis research, academic spatial analysis projects, and published research applying GIS-based methodologies to investigate environmental and urban systems. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
+
+**Tools:** ArcGIS Pro | QGIS | Spatial Analysis | Urban Analytics
+
+---
+
+### Research Publication — GIS-based drought assessment for water-sensitive urban planning in Anantapur District
+
+A peer-reviewed research publication investigating GIS-based approaches for assessing water-sensitive urban development principles and environmental performance.
+
+The study applies spatial analysis methods to evaluate urban environmental conditions and demonstrates the application of geospatial techniques in planning research.
+
+**Tools:** GIS | Spatial Analysis | Environmental Assessment
+
+---
+
+### Urban Design & Transit-Oriented Development — Belmore
+
+An urban design and transit-oriented development framework developed for the Belmore precinct, exploring built form strategies, public realm improvements, accessibility, and responses to future growth.
+
+The project integrates urban design principles with spatial analysis to evaluate opportunities for creating more connected, accessible, and people-focused urban environments.
+
+**Tools:** Urban Design | Vectorworks | Spatial Analysis | SketchUp | Planning Analysis
+
+---
+
+### Environmental Planning & Policy Analysis
+
+Research projects exploring environmental systems, sustainable development, and the relationship between spatial analysis and planning outcomes.
+
+**Tools:** GIS | Environmental Analysis | Policy Analysis | Research Methods
 
 ---
 
 ## Technical Skills
 
-**GIS:** ArcGIS Pro, QGIS, Spatial Analysis, Cartography  
-**Programming:** Python, Data Processing, Spatial Analytics  
-**Planning:** Urban Planning, TOD, Urban Design, Policy Analysis  
+**GIS & Spatial Technologies:**  
+ArcGIS Pro, QGIS, Spatial Analysis, Spatial Modelling, Geoprocessing
+
+**Programming & Data Analytics:**  
+Python, Spatial Data Processing, Statistical Analysis, Data Visualisation
+
+**Planning & Design Tools:**  
+SketchUp, AutoCAD, Adobe Photoshop, Canva, Urban Analytics, Transport Planning
