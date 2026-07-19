@@ -38,9 +38,9 @@ This includes my undergraduate thesis research, academic spatial analysis projec
 
 ### Research Publication — GIS-based drought assessment for water-sensitive urban planning in Anantapur District
 
-A peer-reviewed research publication investigating GIS-based approaches for assessing water-sensitive urban development principles and environmental performance.
+Published in the *Journal of Environmental Engineering and Science* by Emerald Publishing, this peer-reviewed research applies GIS-based spatial analysis to evaluate water-sensitive urban development principles and environmental performance.
 
-The study applies spatial analysis methods to evaluate urban environmental conditions and demonstrates the application of geospatial techniques in planning research.
+The study demonstrates the use of geospatial methods for environmental assessment and highlights the role of spatial decision-support approaches in urban planning research.
 
 **Tools:** GIS | Spatial Analysis | Environmental Assessment
 
