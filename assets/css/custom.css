@@ -57,3 +57,54 @@ p{
 strong{
     color:#12355B;
 }
+
+/* =====================================
+   PROJECT CARDS
+===================================== */
+
+.project-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 35px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+
+.project-card h3 {
+    margin-top: 0;
+    font-size: 1.35rem;
+}
+
+.project-card h3 a {
+    color: #12355B;
+    text-decoration: none;
+}
+
+.project-card h3 a:hover {
+    text-decoration: underline;
+}
+
+.project-card p {
+    margin-bottom: 15px;
+}
+
+.project-button {
+    display: inline-block;
+    background: #12355B;
+    color: white !important;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-size: 0.95rem;
+    transition: background 0.2s ease;
+}
+
+.project-button:hover {
+    background: #1c5276;
+}
