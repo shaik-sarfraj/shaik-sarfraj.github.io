@@ -5,7 +5,7 @@ author_profile: true
 permalink: /portfolio/ug-thesis/
 ---
 
-<img src="/assets/images/projects/gis/ug-main.png" class="project-main-image" alt="Regulatory Approach for Enhancing Mobility in Inner City Areas">
+<img src="/assets/images/projects/gis/ugthesis-main.png" class="project-main-image" alt="Regulatory Approach for Enhancing Mobility in Inner City Areas">
 
 ## Overview
 
@@ -53,7 +53,7 @@ The study demonstrates the role of GIS-based analytical frameworks in bridging l
 
 **ArcGIS Pro | GIS Modelling | Spatial Analysis | Fuzzy AHP | Transport Planning | Multi-Criteria Decision Analysis**
 
-[View Undergraduate Thesis Report](/assets/files/gis-applications/ug-thesis-report.pdf)
+[View Undergraduate Thesis Report](/assets/files/gis-applications/2200200314-REVIEW 6 EDITED(1).pdf)
 
 ---
 
@@ -78,12 +78,10 @@ The project involved:
 - Applying data-driven methods to interpret urban phenomena.
 - Presenting complex information through accessible visual outputs.
 
-<img src="/assets/images/projects/gis/digitalcities-1.png" alt="Digital Cities Data Visualisation">
+<img src="/assets/images/projects/gis/digitalcities-2.png" alt="Digital Cities Data Visualisation">
 
 ## Tools
 
 **Python | Data Visualisation | Urban Analytics | Spatial Analysis**
 
-[View Project Report](/assets/files/gis-applications/ug-thesis-report.pdf)
-
-[View Digital Cities Report](/assets/files/gis-applications/digital-cities-report.pdf)
+[View Digital Cities Report](/assets/files/gis/z5586793_A3_BENV7504.pdf)
