@@ -57,7 +57,7 @@ The project produced:
 
 # Python-Based Environmental Data Analysis — Analysing the impact of urban configurations on wind speed around buildings in urban neighbourhoods from high-resolution numerical simulations
 
-<img src="/assets/images/projects/python/windspeed-main.jpeg" class="project-main-image" alt="Python Wind Speed Analysis">
+<img src="/assets/images/projects/python/windspeed-main.png" class="project-main-image" alt="Python Wind Speed Analysis">
 
 ## Overview
 
