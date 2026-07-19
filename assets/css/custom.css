@@ -108,3 +108,7 @@ strong{
 .project-button:hover {
     background: #1c5276;
 }
+
+body {
+    background: #f2f2f2 !important;
+}
