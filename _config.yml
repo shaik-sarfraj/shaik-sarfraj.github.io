@@ -1,1 +1,11 @@
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
