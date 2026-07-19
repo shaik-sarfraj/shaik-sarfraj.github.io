@@ -4,7 +4,7 @@ excerpt: "A GIS-based composite index developed as part of my UNSW Master's thes
 author_profile: true
 ---
 
-![Thesis presentation at UNSW Sydney](images/thesis-main.png)
+![Thesis presentation at UNSW Sydney](/assets/images/projects/thesis/thesis-main.png)
 
 ## Overview
 
@@ -14,15 +14,15 @@ The research develops a multi-dimensional assessment framework by integrating en
 
 The framework demonstrates the application of geospatial technologies for urban analytics by linking statistical evaluation at the SA2 administrative level with continuous raster-based spatial modelling, enabling both precinct-level comparison and fine-scale interpretation of spatial variations.
 
-![Quality of Public life versus Quality of life](images/thesis-indicators.png)
+![Quality of Public life versus Quality of life](/assets/images/projects/thesis/thesis-indicators.png)
 
 ## Methodology
 
-![Methodology](images/thesis-methodology.png)
+![Methodology](/assets/images/projects/thesis/thesis-methodology.png)
 
 The workflow integrates spatial data processing, statistical computation, and GIS-based modelling through the following stages:
 
-![Data Processing and Standardisation](images/thesis-dataprocessing.png)
+![Data Processing and Standardisation](/assets/images/projects/thesis/thesis-dataprocessing.png)
 
 - Collection and processing of spatial datasets from sources including Australian Bureau of Statistics (ABS), NSW Open Data, SEED, OpenStreetMap, and Overture Maps.
 - Spatial preprocessing and aggregation of multiple indicators, including green space availability, tree canopy cover, population density, volunteering rate, homelessness rate, transport accessibility, healthcare accessibility, land-use diversity, heritage areas, and non-built surface availability.
@@ -31,7 +31,7 @@ The workflow integrates spatial data processing, statistical computation, and GI
 - Python-supported raster processing workflows to automate data transformation, standardisation of raster surfaces, and integration of weighted spatial layers.
 - Generation of a continuous quality of public life raster surface to identify spatial patterns and variations within and between urban precincts.
 
-![Composite Index Scoring](images/thesis-raster.png)
+![Composite Index Scoring](/assets/images/projects/thesis/thesis-raster.png)
 
 ## Key Outcomes
 
@@ -40,7 +40,7 @@ The workflow integrates spatial data processing, statistical computation, and GI
 - Combined SA2-level statistical analysis with raster-based spatial modelling to capture both precinct-level differences and intra-precinct variations.
 - Developed Python-assisted geospatial data processing.
 
-[View Full Thesis Report](documents/Sarfraj_Shaik_MCP_Thesis.pdf)
+[View Full Thesis Report](/assets/files/Sarfraj_Shaik_MCP_Thesis.pdf)
 
 ## Tools
 
