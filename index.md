@@ -4,7 +4,7 @@ author_profile: true
 title: "GIS & Urban Analytics Portfolio"
 ---
 
-## About Me 
+## About Me  
 
 Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising in **Geographic Information Systems (GIS) and Python-based spatial analysis**. My work combines geospatial technologies, data-driven methods, and planning knowledge to investigate complex urban systems across India and Australia, including public space evaluation, accessibility analysis, transport systems research, and published research on GIS-based environmental assessment. I am particularly interested in urban analytics, planning consulting, transport-oriented development, and public realm planning. I aim to translate complex urban issues into clear analytical and visual outputs through geospatial analysis and data-driven approaches.
 
