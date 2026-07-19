@@ -2,7 +2,7 @@
 title: "A Regulatory Approach for Enhancing Mobility in Inner City Areas"
 excerpt: "A GIS-based transport planning framework assessing the relationship between urban activity concentration, road infrastructure capacity, and mobility performance in Hyderabad."
 author_profile: true
-permalink: /portfolio/ug-thesis/
+permalink: /portfolio/gis/
 ---
 
 <img src="/assets/images/projects/gis/ugthesis-main.png" class="project-main-image" alt="Regulatory Approach for Enhancing Mobility in Inner City Areas">
