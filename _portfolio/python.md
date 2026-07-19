@@ -95,4 +95,4 @@ The project generated:
 
 [View Project Report](/assets/files/project_report.pdf)
 
-[View Python Notebook](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook.ipynb))
+[View Python Notebook](https://github.com/shaik-sarfraj/shaik-sarfraj.github.io/blob/main/assets/notebooks/notebook.ipynb)
