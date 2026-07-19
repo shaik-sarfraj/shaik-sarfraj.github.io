@@ -18,7 +18,7 @@ A GIS-based composite index developed as part of my UNSW Master's thesis to eval
 
 ---
 
-### Python-Based Geospatial Analysis & Data Workflows
+### [Python-Based Geospatial Analysis & Data Workflows](/portfolio/python/)
 
 Projects demonstrating the application of Python for geospatial data processing, statistical analysis, and spatial modelling. These workflows involve transforming spatial datasets into meaningful analytical outputs for urban research and decision-making.
 
@@ -83,7 +83,7 @@ Interested in graduate and internship opportunities where GIS, urban analytics, 
 
 **Email:** s4shaiksarfraj@gmail.com
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7)
+**LinkedIn:** [Sarfraj Shaik](https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7)
 
 **Mobile:** 0416 196 684
 
