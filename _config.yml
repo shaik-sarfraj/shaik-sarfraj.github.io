@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-include-cache
+  
 collections:
   portfolio:
     output: true
