@@ -4,7 +4,7 @@ excerpt: "A GIS-based composite index developed as part of my UNSW Master's thes
 author_profile: true
 ---
 
-<img src="/assets/files/images/projects/thesis/thesis-main.jpeg" alt="Thesis Presentation at UNSW Sydney" class="project-image">
+<img src="/assets/images/projects/thesis/thesis-main.jpeg" alt="Thesis Presentation at UNSW Sydney" class="project-image">
 
 ## Overview
 
@@ -14,15 +14,15 @@ The research develops a multi-dimensional assessment framework by integrating en
 
 The framework demonstrates the application of geospatial technologies for urban analytics by linking statistical evaluation at the SA2 administrative level with continuous raster-based spatial modelling, enabling both precinct-level comparison and fine-scale interpretation of spatial variations.
 
-<img src="/assets/files/images/projects/thesis/thesis-indicators.jpeg" alt="Quality of Public life versus Quality of life" class="project-image">
+<img src="/assets/images/projects/thesis/thesis-indicators.jpeg" alt="Quality of Public life versus Quality of life" class="project-image">
 
 ## Methodology
 
-<img src="/assets/files/images/projects/thesis/thesis-methodology.jpeg" alt="Methodology" class="project-image">
+<img src="/assets/images/projects/thesis/thesis-methodology.jpeg" alt="Methodology" class="project-image">
 
 The workflow integrates spatial data processing, statistical computation, and GIS-based modelling through the following stages:
 
-<img src="/assets/files/images/projects/thesis/thesis-dataprocessing.jpeg" alt="Data Processing and Standardisation" class="project-image">
+<img src="/assets/images/projects/thesis/thesis-dataprocessing.jpeg" alt="Data Processing and Standardisation" class="project-image">
 
 - Collection and processing of spatial datasets from sources including Australian Bureau of Statistics (ABS), NSW Open Data, SEED, OpenStreetMap, and Overture Maps.
 - Spatial preprocessing and aggregation of multiple indicators, including green space availability, tree canopy cover, population density, volunteering rate, homelessness rate, transport accessibility, healthcare accessibility, land-use diversity, heritage areas, and non-built surface availability.
@@ -31,7 +31,7 @@ The workflow integrates spatial data processing, statistical computation, and GI
 - Python-supported raster processing workflows to automate data transformation, standardisation of raster surfaces, and integration of weighted spatial layers.
 - Generation of a continuous quality of public life raster surface to identify spatial patterns and variations within and between urban precincts.
 
-<img src="/assets/files/images/projects/thesis/thesis-raster.jpeg" alt="Composite Index Scoring" class="project-image">
+<img src="/assets/images/projects/thesis/thesis-raster.jpeg" alt="Composite Index Scoring" class="project-image">
 
 ## Key Outcomes
 
