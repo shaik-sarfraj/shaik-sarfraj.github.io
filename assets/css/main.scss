@@ -236,7 +236,18 @@ hr {
   width: 100%;
   max-width: 900px;
   height: auto;
+}
+
+
+/* Keep project cards uniform */
+
+.projects-grid .project-card img,
+.project-card img {
+  width: 100%;
+  height: 260px;
   object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
 }
 
 
