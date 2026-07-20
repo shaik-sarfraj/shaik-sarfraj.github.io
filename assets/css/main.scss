@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
-@import "custom";
+body {
+  background-color: #f7f9fc;
+}
