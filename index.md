@@ -34,7 +34,7 @@ Email
 
 </div>
 
-## About Me  
+## About Me   
 
 Master of City Planning (City Analytics) candidate at UNSW Sydney specialising in GIS, geospatial analysis, and Python-based urban analytics.
 
