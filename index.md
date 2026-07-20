@@ -36,11 +36,11 @@ Email
 
 ## About Me   
 
-Master of City Planning (City Analytics) candidate at UNSW Sydney specialising in GIS, geospatial analysis, and Python-based urban analytics.
+I am a Master of City Planning (City Analytics) candidate at UNSW Sydney specialising in Geographic Information Systems (GIS), spatial analysis, and Python-based urban analytics.
 
-My work sits at the intersection of geospatial technologies and urban planning, using data-driven methods to understand complex city systems across India and Australia.
+My work combines geospatial technologies, computational methods, and planning knowledge to investigate complex urban systems. Through academic research and applied projects, I have explored public space performance, accessibility analysis, transport planning, environmental assessment, and spatial decision-support frameworks.
 
-My projects explore public space performance, accessibility, transport systems, environmental assessment, and evidence-based planning decision-making.
+I am interested in applying data-driven approaches to support evidence-based planning, sustainable urban development, and improved understanding of how cities function.
 
 <div class="project-card">
 
@@ -264,13 +264,13 @@ View Project →
 ## Technical Skills
 
 **GIS & Spatial Technologies:**  
-ArcGIS Pro, QGIS, Spatial Analysis, Spatial Modelling, Geoprocessing
+ArcGIS Pro | QGIS | Spatial Analysis | Spatial Modelling | Geoprocessing
 
 **Programming & Data Analytics:**  
-Python, Spatial Data Processing, Statistical Analysis, Data Visualisation
+Python | Spatial Data Processing | Statistical Analysis | Data Visualisation
 
 **Planning & Design Tools:**  
-SketchUp, AutoCAD, Adobe Photoshop, Canva, Urban Analytics, Transport Planning
+SketchUp | AutoCAD | Adobe Photoshop | Canva | Urban Analytics | Transport Planning
 
 ---
 
