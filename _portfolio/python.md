@@ -86,10 +86,6 @@ Python | Jupyter Notebook | Pandas | Data Visualisation | Urban Analytics
 
 # Environmental Data Analysis — Urban Wind Speed Modelling
 
-
-<img src="/assets/images/projects/python/windspeed-main.png" class="project-main-image" alt="Python Wind Speed Analysis">
-
-
 ## Overview
 
 This project investigates urban environmental conditions through Python-based data analysis and visualisation workflows.
@@ -98,9 +94,7 @@ The study examines variations in wind speed around urban configurations using hi
 
 The workflow highlights the application of programming techniques for processing large datasets, identifying patterns, and communicating environmental relationships.
 
-
-<img src="/assets/images/projects/python/windspeed-1.png" alt="Python Wind Speed Analysis">
-
+<img src="/assets/images/projects/python/windspeed-main.png" class="project-main-image" alt="Python Wind Speed Analysis">
 
 ## Methodology
 
@@ -112,9 +106,7 @@ The workflow involved:
 - Developing graphical outputs to communicate environmental trends.
 - Interpreting relationships between urban form and environmental performance.
 
-
-<img src="/assets/images/projects/python/windspeed-2.png" alt="Python Wind Speed Analysis">
-
+<img src="/assets/images/projects/python/windspeed-1.png" alt="Python Wind Speed Analysis">
 
 ## Key Outputs
 
@@ -124,6 +116,7 @@ The project generated:
 - Analytical outputs derived through Python workflows.
 - A documented computational process using Jupyter Notebook.
 
+<img src="/assets/images/projects/python/windspeed-2.png" alt="Python Wind Speed Analysis">
 
 **Tools:**  
 Python | Jupyter Notebook | Pandas | Data Analysis | Data Visualisation
