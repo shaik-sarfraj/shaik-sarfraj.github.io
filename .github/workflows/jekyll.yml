@@ -1,32 +1,44 @@
-plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
+name: Build and Deploy Jekyll
 
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
+on:
+  push:
+    branches:
+      - main
 
-defaults:
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-title: "Shaik Sarfraj | GIS & Urban Analytics Portfolio"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-description: "Portfolio showcasing GIS, urban analytics, spatial analysis, and data-driven planning projects."
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-author:
-  name: "Shaik Sarfraj"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
-  location: "Sydney, Australia"
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
 
-repository: "shaik-sarfraj/shaik-sarfraj.github.io"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
 
-minimal_mistakes_skin: "default"
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    needs: build
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
