@@ -91,18 +91,20 @@ body {
   margin-bottom: 1rem;
 }
 
-.project-button {
-  display: inline-block;
-  background: #0B6DB8;
-  color: white !important;
-  padding: .7rem 1.2rem;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: .2s;
+.project-button{
+    display:inline-block;
+    padding:12px 22px;
+    background:#0B6DB8;
+    color:#fff!important;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:600;
+    transition:.2s;
 }
 
-.project-button:hover {
-  background: #095b99;
+.project-button:hover{
+    background:#095b99;
+    transform:translateY(-2px);
 }
 
 /* =====================================================
