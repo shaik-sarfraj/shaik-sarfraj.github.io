@@ -9,6 +9,8 @@ author_profile: false
 
 A portfolio of multidisciplinary planning projects spanning GIS, Python, urban analytics, spatial modelling, urban design, research, and policy analysis. These projects demonstrate the application of data-driven methods, spatial thinking, and planning frameworks to address complex urban challenges.
 
+<div class="projects-grid">
+
 <div class="project-card">
 
 <img src="/assets/images/projects/thesis/thesis-main.jpeg"
@@ -42,7 +44,6 @@ View Project →
 
 </div>
 
----
 
 <div class="project-card">
 
@@ -78,7 +79,6 @@ View Project →
 
 </div>
 
----
 
 <div class="project-card">
 
@@ -113,7 +113,6 @@ View Project →
 
 </div>
 
----
 
 <div class="project-card">
 
@@ -147,7 +146,6 @@ View Project →
 
 </div>
 
----
 
 <div class="project-card">
 
@@ -182,7 +180,6 @@ View Project →
 
 </div>
 
----
 
 <div class="project-card">
 
@@ -213,5 +210,7 @@ href="/portfolio/planning-policy/">
 View Project →
 </a>
 </p>
+
+</div>
 
 </div>
