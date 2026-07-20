@@ -17,9 +17,27 @@ defaults:
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
+
+# =====================================================
+# SITE INFORMATION
+# =====================================================
+
 title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
 
-description: "Portfolio showcasing GIS, urban analytics, spatial analysis, and data-driven planning projects."
+description: >
+  GIS, urban analytics, spatial analysis, Python-based workflows,
+  and data-driven planning projects exploring cities through
+  geospatial technologies and evidence-based methods.
+
+
+url: "https://shaik-sarfraj.github.io"
+
+repository: "shaik-sarfraj/shaik-sarfraj.github.io"
+
+
+# =====================================================
+# AUTHOR INFORMATION
+# =====================================================
 
 author:
   name: "Shaik Sarfraj"
@@ -27,9 +45,33 @@ author:
   bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
   location: "Sydney, Australia"
 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shaik-sarfraj"
+
+
+# =====================================================
+# IMAGES / SOCIAL PREVIEW
+# =====================================================
+
 logo: "/assets/images/favicon.png"
 
-repository: "shaik-sarfraj/shaik-sarfraj.github.io"
+social:
+  type: Person
+  name: "Shaik Sarfraj"
+  links:
+    - "https://github.com/shaik-sarfraj"
+    - "https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7"
+
+
+# =====================================================
+# THEME SETTINGS
+# =====================================================
 
 minimal_mistakes_skin: "default"
 
