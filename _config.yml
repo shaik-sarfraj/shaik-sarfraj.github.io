@@ -1,6 +1,8 @@
 plugins:
   - jekyll-include-cache
-  
+
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
 collections:
   portfolio:
     output: true
@@ -14,5 +16,13 @@ defaults:
       layout: single
       author_profile: false
 
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+title: "Shaik Sarfraj | GIS & Urban Analytics Portfolio"
+description: "Portfolio showcasing GIS, urban analytics, spatial analysis, and data-driven planning projects."
 
+author:
+  name: "Shaik Sarfraj"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
+  location: "Sydney, Australia"
+
+minimal_mistakes_skin: "default"
