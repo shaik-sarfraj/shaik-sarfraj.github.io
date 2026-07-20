@@ -6,7 +6,7 @@ title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
 
 <div class="hero">
 
-<img src="/assets/images/profile.jpg" class="hero-image">
+<img src="/assets/images/profile.jpeg" class="hero-image">
 
 <h1>Shaik Sarfraj</h1>
 
