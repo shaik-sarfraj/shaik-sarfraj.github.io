@@ -12,6 +12,7 @@ defaults:
       type: portfolio
     values:
       layout: single
+      author_profile: false
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
