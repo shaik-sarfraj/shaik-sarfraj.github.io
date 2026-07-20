@@ -1,7 +1,31 @@
 plugins:
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
+minimal_mistakes_skin: "default"
+
+title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
+description: "Portfolio showcasing GIS, urban analytics, geospatial analysis, and data-driven planning projects."
+
+url: "https://shaik-sarfraj.github.io"
+baseurl: ""
+
+repository: "shaik-sarfraj/shaik-sarfraj.github.io"
+
+author:
+  name: "Shaik Sarfraj"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
+  location: "Sydney, Australia"
+    links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shaik-sarfraj"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7/"
 
 collections:
   portfolio:
@@ -16,15 +40,12 @@ defaults:
       layout: single
       author_profile: false
 
-title: "Shaik Sarfraj | GIS & Urban Analytics Portfolio"
-description: "Portfolio showcasing GIS, urban analytics, spatial analysis, and data-driven planning projects."
+markdown: kramdown
 
-author:
-  name: "Shaik Sarfraj"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
-  location: "Sydney, Australia"
 
-repository: "shaik-sarfraj/shaik-sarfraj.github.io"
 
-minimal_mistakes_skin: "default"
+
+
+
+
+
