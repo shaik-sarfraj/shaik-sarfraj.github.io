@@ -9,10 +9,15 @@ author_profile: false
 
 <div class="project-meta">
 
-<strong>Project Type:</strong> Urban Design Studio<br>
+<strong>Project Type:</strong> Urban Design & Transit-Oriented Development Framework<br>
+
 <strong>Course:</strong> Master of City Planning, UNSW Sydney<br>
+
 <strong>Location:</strong> Belmore, Sydney NSW<br>
-<strong>Focus:</strong> Transit-Oriented Development, Public Realm, Urban Design
+
+<strong>Focus:</strong> Transit-Oriented Development, Public Realm, Built Form Strategy<br>
+
+<strong>Tools:</strong> Urban Design | SketchUp | Vectorworks | Spatial Analysis | Planning Analysis
 
 </div>
 
