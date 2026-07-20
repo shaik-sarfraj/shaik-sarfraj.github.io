@@ -87,4 +87,4 @@ The framework demonstrates the role of integrated planning and spatial thinking 
 
 ## Project Documentation
 
-[View Full Project Report](YOUR_EXTERNAL_LINK_HERE)
+[View Full Project Report](/assets/files/PLAN7143_A3_Designing_the_City_Belmore_compressed.pdf)
