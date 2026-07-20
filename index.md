@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 title: "GIS & Urban Analytics Portfolio"
 ---
 
