@@ -1,12 +1,29 @@
 ---
 layout: home
 author_profile: false
-title: "GIS & Urban Analytics Portfolio"
+title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
 ---
+
+[PHOTO]
+
+Shaik Sarfraj
+
+GIS & Urban Analytics Portfolio
+
+Master of City Planning (City Analytics)
+UNSW Sydney
+
+GIS | Python | Spatial Analysis | Urban Analytics
+
+[GitHub] [LinkedIn] [Email]
 
 ## About Me  
 
-Master of City Planning (City Analytics) candidate at UNSW Sydney, specialising in **Geographic Information Systems (GIS) and Python-based spatial analysis**. My work combines geospatial technologies, data-driven methods, and planning knowledge to investigate complex urban systems across India and Australia, including public space evaluation, accessibility analysis, transport systems research, and published research on GIS-based environmental assessment. I am particularly interested in urban analytics, planning consulting, transport-oriented development, and public realm planning. I aim to translate complex urban issues into clear analytical and visual outputs through geospatial analysis and data-driven approaches.
+Master of City Planning (City Analytics) candidate at UNSW Sydney specialising in GIS, geospatial analysis, and Python-based urban analytics.
+
+My work sits at the intersection of geospatial technologies and urban planning, using data-driven methods to understand complex city systems across India and Australia.
+
+My projects explore public space performance, accessibility, transport systems, environmental assessment, and evidence-based planning decision-making.
 
 <div class="project-card">
 
@@ -99,6 +116,6 @@ Interested in graduate and internship opportunities where GIS, urban analytics, 
 
 **LinkedIn:** [Sarfraj Shaik](https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7)
 
-**Mobile:** 0416 196 684
+**GitHub:** [shaik-sarfraj](https://github.com/shaik-sarfraj)
 
 ---
