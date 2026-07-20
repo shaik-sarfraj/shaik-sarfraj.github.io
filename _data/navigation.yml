@@ -1,1 +1,12 @@
+main:
+  - title: "Home"
+    url: /
 
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "About"
+    url: /#about-me
+
+  - title: "Contact"
+    url: /#contact
