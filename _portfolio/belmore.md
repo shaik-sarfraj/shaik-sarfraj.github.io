@@ -79,16 +79,6 @@ Balancing future growth with local character through active frontages, human-sca
 
 ![Belmore Visualisation](/assets/images/projects/belmore/belmore-04.png)
 
-<div class="tool-tags">
-
-<span class="tool-tag">Urban Design</span>
-<span class="tool-tag">SketchUp</span>
-<span class="tool-tag">Vectorworks</span>
-<span class="tool-tag">Spatial Analysis</span>
-<span class="tool-tag">Planning Analysis</span>
-
-</div>
-
 ## Reflection
 
 This project strengthened my understanding of how transport accessibility, urban form, and public realm design interact in shaping sustainable urban growth.
