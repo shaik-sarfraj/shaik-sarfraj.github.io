@@ -1,11 +1,25 @@
 ---
 title: "A Regulatory Approach for Enhancing Mobility in Inner City Areas"
 excerpt: "A GIS-based transport planning framework assessing the relationship between urban activity concentration, road infrastructure capacity, and mobility performance in Hyderabad."
-author_profile: true
+author_profile: false
 permalink: /portfolio/gis/
 ---
 
 <img src="/assets/images/projects/gis/ugthesis-main.png" class="project-main-image" alt="Regulatory Approach for Enhancing Mobility in Inner City Areas">
+
+<div class="project-meta">
+
+<strong>Project Type:</strong> Undergraduate Thesis — GIS-Based Transport Planning Framework<br>
+
+<strong>Institution:</strong> School of Planning and Architecture Vijayawada<br>
+
+<strong>Location:</strong> Hyderabad, India<br>
+
+<strong>Focus:</strong> Urban Mobility, GIS Modelling, Transport Planning, Spatial Decision Support<br>
+
+<strong>Methods:</strong> GIS Analysis | FAHP | MCDA | Spatial Modelling | Traffic Performance Analysis
+
+</div>
 
 ## Overview
 
@@ -19,7 +33,7 @@ The framework aims to support evidence-based decision-making by prioritising roa
 
 <img src="/assets/images/projects/gis/ugthesis-1.png" alt="Undergraduate Thesis">
 
-## Analytical Framework
+## Methodology & Analytical Framework
 
 The study applies a GIS-based spatial modelling approach through the following stages:
 
@@ -49,9 +63,15 @@ The study demonstrates the role of GIS-based analytical frameworks in bridging l
 
 <img src="/assets/images/projects/gis/ugthesis-4.png" alt="Undergraduate Thesis">
 
-## Tools
+## Reflection
 
-**ArcGIS Pro | GIS Modelling | Spatial Analysis | Fuzzy AHP | Transport Planning | Multi-Criteria Decision Analysis**
+This research strengthened my understanding of how geospatial analytics can support transport planning decisions by connecting land-use intensity, infrastructure capacity, and mobility performance.
+
+The project demonstrated the value of GIS-based decision-support frameworks in identifying urban pressures and developing evidence-based strategies for improving mobility outcomes.
+
+## Project Documentation
+
+[View Undergraduate Thesis Sheets](/assets/files/ugthesis_report.pdf)
 
 [View Undergraduate Thesis Sheets](/assets/files/ugthesis_report.pdf)
 
@@ -60,6 +80,18 @@ The study demonstrates the role of GIS-based analytical frameworks in bridging l
 # Data Visualisation & Urban Analytics - BENV7504 Digital Cities Assessment
 
 <img src="/assets/images/projects/gis/digitalcities-main.png" alt="Digital Cities Data Visualisation">
+
+<div class="project-meta">
+
+<strong>Project Type:</strong> Data Visualisation & Urban Analytics Assessment<br>
+
+<strong>Course:</strong> BENV7504 Digital Cities, UNSW Sydney<br>
+
+<strong>Focus:</strong> Urban Data Analysis, Visual Communication, Spatial Insights<br>
+
+<strong>Tools:</strong> Python | Data Visualisation | Urban Analytics | Spatial Analysis
+
+</div>
 
 ## Overview
 
@@ -80,8 +112,6 @@ The project involved:
 
 <img src="/assets/images/projects/gis/digitalcities-2.png" alt="Digital Cities Data Visualisation">
 
-## Tools
-
-**Python | Data Visualisation | Urban Analytics | Spatial Analysis**
+## Project Documentation
 
 [View Digital Cities Report](/assets/files/z5586793_A3_BENV7504.pdf)
