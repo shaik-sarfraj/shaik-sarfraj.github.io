@@ -4,18 +4,35 @@ author_profile: false
 title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
 ---
 
-[PHOTO]
+<div class="hero">
 
-Shaik Sarfraj
+<img src="/assets/images/profile.jpg" class="hero-image">
 
-GIS & Urban Analytics Portfolio
+<h1>Shaik Sarfraj</h1>
 
-Master of City Planning (City Analytics)
-UNSW Sydney
+<h2>GIS & Urban Analytics Portfolio</h2>
 
-GIS | Python | Spatial Analysis | Urban Analytics
+<p>
+Master of City Planning (City Analytics) candidate at UNSW Sydney,
+specialising in GIS, spatial analysis, Python-based workflows,
+and data-driven urban planning.
+</p>
 
-[GitHub] [LinkedIn] [Email]
+<div class="hero-links">
+
+<a href="https://github.com/shaik-sarfraj">GitHub</a>
+
+<a href="https://www.linkedin.com/in/sarfraj-shaik-119b2b1b7">
+LinkedIn
+</a>
+
+<a href="mailto:s4shaiksarfraj@gmail.com">
+Email
+</a>
+
+</div>
+
+</div>
 
 ## About Me  
 
