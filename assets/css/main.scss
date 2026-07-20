@@ -5,33 +5,31 @@
 
 /* Custom styles */
 
-body {
-  background: linear-gradient(
-    -45deg,
-    #f7f9fc,
-    #eef5fb,
-    #f8fafc,
-    #eaf2f8
-  );
-  background-size: 400% 400%;
-  animation: backgroundShift 18s ease infinite;
+body::before {
+  content: "";
+  position: fixed;
+  width: 400px;
+  height: 400px;
+  background: rgba(11,109,184,0.05);
+  border-radius: 50%;
+  top: -150px;
+  left: -150px;
+  animation: floatCircle 15s ease-in-out infinite;
+  z-index: -1;
 }
 
 
-@keyframes backgroundShift {
-  0% {
-    background-position: 0% 50%;
+@keyframes floatCircle {
+
+  0%,100% {
+    transform: translate(0,0);
   }
 
   50% {
-    background-position: 100% 50%;
+    transform: translate(80px,40px);
   }
 
-  100% {
-    background-position: 0% 50%;
-  }
 }
-
 
 /* Homepage hero section */
 
