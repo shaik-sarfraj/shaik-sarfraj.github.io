@@ -83,6 +83,11 @@ body {
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 1.5rem;
+  transition: 0.3s ease;
+}
+
+.project-card:hover img {
+  transform: scale(1.03);
 }
 
 .project-card h3 {
@@ -92,6 +97,24 @@ body {
 .project-card p {
   margin-bottom: 1rem;
 }
+
+
+.tool-tags {
+  margin: 1rem 0;
+}
+
+
+.tool-tag {
+  display: inline-block;
+  background: #eef5fb;
+  color: #0B6DB8;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin: 3px;
+  font-weight: 600;
+}
+
 
 .project-button{
     display:inline-block;
