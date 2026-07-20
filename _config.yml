@@ -15,5 +15,3 @@ defaults:
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
-custom_css:
-  - /assets/css/custom.css
