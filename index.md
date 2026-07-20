@@ -44,7 +44,7 @@ My projects explore public space performance, accessibility, transport systems, 
 
 <div class="project-card">
 
-<img src="/assets/images/projects/thesis/thesis-1.jpeg"
+<img src="/assets/images/projects/thesis/thesis-main.jpeg"
      alt="Master's Thesis">
 
 <h3>
@@ -75,7 +75,7 @@ View Project →
 
 <div class="project-card">
 
-<img src="/assets/images/projects/python/python-1.jpeg"
+<img src="/assets/images/projects/python/heatmap_main.png"
      alt="Python Geospatial Analysis">
 
 <h3>
@@ -106,7 +106,7 @@ View Project →
 
 <div class="project-card">
 
-<img src="/assets/images/projects/gis-applications/gis-1.jpeg"
+<img src="/assets/images/projects/gis/ugthesis-main.png"
      alt="GIS Applications">
 
 <h3>
@@ -137,7 +137,7 @@ View Project →
 
 <div class="project-card">
 
-<img src="/assets/images/projects/publication/publication.jpeg"
+<img src="/assets/images/projects/publication/publication-main.png"
      alt="Research Publication">
 
 <h3>
@@ -168,7 +168,7 @@ View Project →
 
 <div class="project-card">
 
-<img src="/assets/images/projects/belmore/belmore-1.jpeg"
+<img src="/assets/images/projects/belmore/belmore-main.png"
      alt="Belmore TOD">
 
 <h3>
@@ -199,7 +199,7 @@ View Project →
 
 <div class="project-card">
 
-<img src="/assets/images/projects/planning-policy/planning-policy.jpeg"
+<img src="/assets/images/projects/legislation/policy-main.png"
      alt="Planning Policy">
 
 <h3>
