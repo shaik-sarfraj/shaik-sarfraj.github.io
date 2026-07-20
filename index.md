@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: false
-title: "Sarfraj Shaik | GIS & Urban Analytics Portfolio"
 ---
 
 <div class="hero">
