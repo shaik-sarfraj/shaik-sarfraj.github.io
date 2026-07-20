@@ -57,10 +57,14 @@ Development of a Composite Spatial Index for Evaluating Quality of Public Life
 A GIS-based composite spatial index developed as part of my UNSW Master's thesis, integrating GIS, Python-assisted raster processing, and entropy-based weighting to evaluate variations in quality of public life across Sydney precincts.
 </p>
 
-<p>
-<strong>Tools:</strong>
-ArcGIS Pro • Python • Raster Analysis • Spatial Modelling
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">ArcGIS Pro</span>
+<span class="tool-tag">Python</span>
+<span class="tool-tag">Raster Analysis</span>
+<span class="tool-tag">Spatial Modelling</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -88,10 +92,15 @@ Python-Based Geospatial Analysis & Data Workflows
 Projects demonstrating Python-based geospatial data processing, statistical analysis, automation, and spatial modelling for urban planning and city analytics.
 </p>
 
-<p>
-<strong>Tools:</strong>
-Python • GeoPandas • Pandas • ArcGIS Pro • Spatial Analysis
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">Python</span>
+<span class="tool-tag">GeoPandas</span>
+<span class="tool-tag">Pandas</span>
+<span class="tool-tag">ArcGIS Pro</span>
+<span class="tool-tag">Spatial Analysis</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -119,10 +128,14 @@ GIS Applications & Spatial Modelling
 A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support across academic and research applications.
 </p>
 
-<p>
-<strong>Tools:</strong>
-ArcGIS Pro • QGIS • Spatial Analysis • Urban Analytics
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">ArcGIS Pro</span>
+<span class="tool-tag">QGIS</span>
+<span class="tool-tag">Spatial Analysis</span>
+<span class="tool-tag">Urban Analytics</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -150,10 +163,13 @@ Research Publication — GIS-Based Drought Assessment
 Peer-reviewed research applying GIS-based spatial analysis to evaluate water-sensitive urban planning and environmental performance.
 </p>
 
-<p>
-<strong>Tools:</strong>
-GIS • Spatial Analysis • Environmental Assessment
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">GIS</span>
+<span class="tool-tag">Spatial Analysis</span>
+<span class="tool-tag">Environmental Assessment</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -181,10 +197,14 @@ Urban Design & Transit-Oriented Development — Belmore
 An urban design framework exploring built form, accessibility, public realm improvements, and transit-oriented development strategies for future urban growth.
 </p>
 
-<p>
-<strong>Tools:</strong>
-Urban Design • Vectorworks • SketchUp • Spatial Analysis
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">Urban Design</span>
+<span class="tool-tag">Vectorworks</span>
+<span class="tool-tag">SketchUp</span>
+<span class="tool-tag">Spatial Analysis</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -212,10 +232,13 @@ Planning Legislation Analysis
 A critical analysis of statutory planning decision-making under the NSW Environmental Planning and Assessment Act 1979 and its role in development assessment.
 </p>
 
-<p>
-<strong>Tools:</strong>
-Planning Policy • Legislative Analysis • Research
-</p>
+<div class="tool-tags">
+
+<span class="tool-tag">Planning Policy</span>
+<span class="tool-tag">Legislative Analysis</span>
+<span class="tool-tag">Research</span>
+
+</div>
 
 <p>
 <a class="project-button"
@@ -225,6 +248,16 @@ View Project →
 </p>
 
 </div>
+
+---
+
+## Areas of Interest
+
+- Urban Analytics & Geospatial Data Science
+- GIS-based Spatial Modelling
+- Transport-Oriented Development
+- Public Realm & Urban Design
+- Evidence-Based Planning
 
 ---
 
@@ -243,7 +276,7 @@ SketchUp, AutoCAD, Adobe Photoshop, Canva, Urban Analytics, Transport Planning
 
 ## Contact
 
-Interested in graduate and internship opportunities where GIS, urban analytics, and geospatial data analysis can support evidence-based planning and the development of sustainable urban solutions.
+I am currently exploring graduate and internship opportunities in urban analytics, geospatial analysis, and evidence-based planning. I am interested in applying GIS, Python, and spatial data methods to support better urban decision-making and sustainable city development.
 
 **Email:** s4shaiksarfraj@gmail.com
 
