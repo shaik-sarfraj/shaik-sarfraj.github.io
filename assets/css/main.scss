@@ -58,3 +58,87 @@ body {
   margin: 0 0.8rem;
   font-weight: 600;
 }
+
+/* =====================================================
+   PROJECT CARDS
+===================================================== */
+
+.project-card {
+  background: #ffffff;
+  border: 1px solid #e5e9ef;
+  border-radius: 14px;
+  padding: 28px;
+  margin: 3rem 0;
+  transition: 0.25s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1.2rem;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-card p {
+  margin-bottom: 1rem;
+}
+
+.project-button {
+  display: inline-block;
+  background: #0B6DB8;
+  color: white !important;
+  padding: .7rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: .2s;
+}
+
+.project-button:hover {
+  background: #095b99;
+}
+
+/* =====================================================
+   COLOURS
+===================================================== */
+
+a {
+  color: #0B6DB8;
+}
+
+a:hover {
+  color: #095b99;
+}
+
+/* =====================================================
+   SPACING
+===================================================== */
+
+.page__content {
+  line-height: 1.8;
+}
+
+.page__content h2 {
+  margin-top: 4rem;
+}
+
+.page__content p {
+  margin-bottom: 1.3rem;
+}
+
+.page__content ul {
+  margin-bottom: 1.3rem;
+}
+
+hr {
+  margin: 4rem 0;
+  border: none;
+  border-top: 1px solid #e4e8ef;
+}
