@@ -15,9 +15,9 @@ baseurl: ""
 repository: "shaik-sarfraj/shaik-sarfraj.github.io"
 
 author:
-  name: "Shaik Sarfraj"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Master of City Planning (City Analytics) | GIS | Urban Analytics"
+  name: "Sarfraj Shaik"
+  avatar: "/assets/images/profile.jpeg"
+  bio: "Master of City Planning<br>City Analytics Specialisation<br>GIS & Urban Analytics"
   location: "Sydney, Australia"
     links:
     - label: "GitHub"
