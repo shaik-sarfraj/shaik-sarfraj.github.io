@@ -44,6 +44,9 @@ My projects explore public space performance, accessibility, transport systems, 
 
 <div class="project-card">
 
+<img src="/assets/images/projects/thesis/thesis-1.jpeg"
+     alt="Master's Thesis">
+
 <h3>
 <a href="/portfolio/thesis/">
 Development of a Composite Spatial Index for Evaluating Quality of Public Life
@@ -55,60 +58,173 @@ A GIS-based composite spatial index developed as part of my UNSW Master's thesis
 </p>
 
 <p>
-<strong>Tools:</strong> ArcGIS Pro • Python • Raster Analysis • Spatial Modelling
+<strong>Tools:</strong>
+ArcGIS Pro • Python • Raster Analysis • Spatial Modelling
 </p>
 
 <p>
-<a class="project-button" href="/portfolio/thesis/">View Project →</a>
+<a class="project-button"
+href="/portfolio/thesis/">
+View Project →
+</a>
 </p>
 
 </div>
 
 ---
 
-### [Python-Based Geospatial Analysis & Data Workflows](/portfolio/python/)
+<div class="project-card">
 
-Projects demonstrating the application of Python for geospatial data processing, statistical analysis, and spatial modelling. These workflows involve transforming spatial datasets into meaningful analytical outputs for urban research and decision-making.
+<img src="/assets/images/projects/python/python-1.jpeg"
+     alt="Python Geospatial Analysis">
 
-**Tools:** Python | GeoPandas | Pandas | ArcGIS Pro | Spatial Analysis | Data Visualisation
+<h3>
+<a href="/portfolio/python/">
+Python-Based Geospatial Analysis & Data Workflows
+</a>
+</h3>
 
----
+<p>
+Projects demonstrating Python-based geospatial data processing, statistical analysis, automation, and spatial modelling for urban planning and city analytics.
+</p>
 
-### [GIS Applications & Spatial Modelling](/portfolio/gis/)
+<p>
+<strong>Tools:</strong>
+Python • GeoPandas • Pandas • ArcGIS Pro • Spatial Analysis
+</p>
 
-A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support frameworks.
+<p>
+<a class="project-button"
+href="/portfolio/python/">
+View Project →
+</a>
+</p>
 
-This includes my undergraduate thesis research and academic spatial analysis projects to investigate urban systems and spatial patterns. These projects demonstrate the application of geospatial techniques to transform spatial datasets into analytical insights.
-
-**Tools:** ArcGIS Pro | QGIS | Spatial Analysis | Urban Analytics
-
----
-
-### [Research Publication — GIS-Based Drought Assessment for Water-Sensitive Urban Planning in Anantapur District](/portfolio/publication/)
-
-Published in the *Journal of Environmental Engineering and Science* by Emerald Publishing, this peer-reviewed research applies GIS-based spatial analysis to evaluate water-sensitive urban development principles and environmental performance.
-
-The study demonstrates the use of geospatial methods for environmental assessment and highlights the role of spatial decision-support approaches in urban planning research.
-
-**Tools:** GIS | Spatial Analysis | Environmental Assessment
-
----
-
-### [Urban Design & Transit-Oriented Development — Belmore](/portfolio/belmore/)
-
-An urban design and transit-oriented development framework developed for the Belmore precinct, exploring built form strategies, public realm improvements, accessibility, and responses to future growth.
-
-The project integrates urban design principles with spatial analysis to evaluate opportunities for creating more connected, accessible, and people-focused urban environments.
-
-**Tools:** Urban Design | Vectorworks | Spatial Analysis | SketchUp | Planning Analysis
+</div>
 
 ---
 
-### [Planning Legislation Analysis — NSW Environmental Planning and Assessment Act 1979](/portfolio/planning-policy/)
+<div class="project-card">
 
-A critical analysis of statutory decision-making priorities under Section 4.15 of the NSW Environmental Planning and Assessment Act 1979, examining how legislative frameworks guide development assessment and planning outcomes.
+<img src="/assets/images/projects/gis-applications/gis-1.jpeg"
+     alt="GIS Applications">
 
-**Tools:** Planning Legislation | Policy Analysis | Research Methods
+<h3>
+<a href="/portfolio/gis/">
+GIS Applications & Spatial Modelling
+</a>
+</h3>
+
+<p>
+A collection of GIS-based projects involving accessibility analysis, land-use assessment, environmental evaluation, and spatial decision-support across academic and research applications.
+</p>
+
+<p>
+<strong>Tools:</strong>
+ArcGIS Pro • QGIS • Spatial Analysis • Urban Analytics
+</p>
+
+<p>
+<a class="project-button"
+href="/portfolio/gis/">
+View Project →
+</a>
+</p>
+
+</div>
+
+---
+
+<div class="project-card">
+
+<img src="/assets/images/projects/publication/publication.jpeg"
+     alt="Research Publication">
+
+<h3>
+<a href="/portfolio/publication/">
+Research Publication — GIS-Based Drought Assessment
+</a>
+</h3>
+
+<p>
+Peer-reviewed research applying GIS-based spatial analysis to evaluate water-sensitive urban planning and environmental performance.
+</p>
+
+<p>
+<strong>Tools:</strong>
+GIS • Spatial Analysis • Environmental Assessment
+</p>
+
+<p>
+<a class="project-button"
+href="/portfolio/publication/">
+View Project →
+</a>
+</p>
+
+</div>
+
+---
+
+<div class="project-card">
+
+<img src="/assets/images/projects/belmore/belmore-1.jpeg"
+     alt="Belmore TOD">
+
+<h3>
+<a href="/portfolio/belmore/">
+Urban Design & Transit-Oriented Development — Belmore
+</a>
+</h3>
+
+<p>
+An urban design framework exploring built form, accessibility, public realm improvements, and transit-oriented development strategies for future urban growth.
+</p>
+
+<p>
+<strong>Tools:</strong>
+Urban Design • Vectorworks • SketchUp • Spatial Analysis
+</p>
+
+<p>
+<a class="project-button"
+href="/portfolio/belmore/">
+View Project →
+</a>
+</p>
+
+</div>
+
+---
+
+<div class="project-card">
+
+<img src="/assets/images/projects/planning-policy/planning-policy.jpeg"
+     alt="Planning Policy">
+
+<h3>
+<a href="/portfolio/planning-policy/">
+Planning Legislation Analysis
+</a>
+</h3>
+
+<p>
+A critical analysis of statutory planning decision-making under the NSW Environmental Planning and Assessment Act 1979 and its role in development assessment.
+</p>
+
+<p>
+<strong>Tools:</strong>
+Planning Policy • Legislative Analysis • Research
+</p>
+
+<p>
+<a class="project-button"
+href="/portfolio/planning-policy/">
+View Project →
+</a>
+</p>
+
+</div>
 
 ---
 
