@@ -1,1 +1,118 @@
+.project-main-image {
+  width: 200px;
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
 
+.project-image {
+  width: 250px;
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+/* =====================================
+   GENERAL TYPOGRAPHY
+===================================== */
+
+body{
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    line-height:1.75;
+    font-size:18px;
+    color:#2b2b2b;
+}
+
+.page__content{
+    max-width:900px;
+}
+
+.page__title{
+    font-size:2.2rem;
+    font-weight:700;
+    color:#12355B !important;
+}
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4{
+    color:#12355B !important;
+}
+
+.page__content h2,
+.page__content h3,
+.page__content h4{
+    margin-top:2.2rem;
+    margin-bottom:1rem;
+}
+
+p{
+    margin-bottom:1.2rem;
+}
+
+strong{
+    color:#12355B;
+}
+
+/* =====================================
+   PROJECT CARDS
+===================================== */
+
+.project-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 35px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+
+.project-card h3 {
+    margin-top: 0;
+    font-size: 1.35rem;
+}
+
+.project-card h3 a {
+    color: #12355B;
+    text-decoration: none;
+}
+
+.project-card h3 a:hover {
+    text-decoration: underline;
+}
+
+.project-card p {
+    margin-bottom: 15px;
+}
+
+.project-button {
+    display: inline-block;
+    background: #12355B;
+    color: white !important;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-size: 0.95rem;
+    transition: background 0.2s ease;
+}
+
+.project-button:hover {
+    background: #1c5276;
+}
+
+body {
+    background: #f2f2f2 !important;
+}
+
+body {
+    background: #f2f2f2 !important;
+}
