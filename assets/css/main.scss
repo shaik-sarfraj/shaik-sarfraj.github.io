@@ -133,6 +133,26 @@ body {
 }
 
 /* =====================================================
+   PROJECTS COLLECTION PAGE
+===================================================== */
+
+.projects-grid {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.projects-grid .project-card {
+  margin-bottom: 3.5rem;
+}
+
+.projects-grid .project-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* =====================================================
    COLOURS
 ===================================================== */
 
