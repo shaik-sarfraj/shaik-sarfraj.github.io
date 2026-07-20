@@ -73,8 +73,6 @@ The project demonstrated the value of GIS-based decision-support frameworks in i
 
 [View Undergraduate Thesis Sheets](/assets/files/ugthesis_report.pdf)
 
-[View Undergraduate Thesis Sheets](/assets/files/ugthesis_report.pdf)
-
 ---
 
 # Data Visualisation & Urban Analytics - BENV7504 Digital Cities Assessment
