@@ -6,6 +6,17 @@ author_profile: false
 
 <img src="/assets/images/projects/belmore/belmore-main.png" class="project-main-image" alt="Belmore Open Space Walkability">
 
+
+<div class="project-meta">
+
+<strong>Project Type:</strong> Urban Design Studio<br>
+<strong>Course:</strong> Master of City Planning, UNSW Sydney<br>
+<strong>Location:</strong> Belmore, Sydney NSW<br>
+<strong>Focus:</strong> Transit-Oriented Development, Public Realm, Urban Design
+
+</div>
+
+
 ## Overview
 
 Developed as part of the UNSW Master of City Planning program, this project proposes a transit-oriented development framework for the Belmore precinct.
