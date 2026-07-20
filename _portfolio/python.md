@@ -74,6 +74,7 @@ The project produced:
 **Tools:**  
 Python | Jupyter Notebook | Pandas | Data Visualisation | Urban Analytics
 
+## Project Documentation
 
 [View Project Report](/assets/files/BENV7500_A2_z5586793_report.pdf)
 
@@ -121,6 +122,7 @@ The project generated:
 **Tools:**  
 Python | Jupyter Notebook | Pandas | Data Analysis | Data Visualisation
 
+## Project Documentation
 
 [View Project Report](/assets/files/project_report.pdf)
 
