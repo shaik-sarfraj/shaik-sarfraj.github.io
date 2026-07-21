@@ -13,7 +13,7 @@ author_profile: false
 
 <p>
 Master of City Planning (City Analytics) candidate at UNSW Sydney,
-specialising in GIS, spatial analysis, Python-based workflows,
+specialising in GIS, geospatial analysis, Python-based workflows,
 and data-driven urban planning.
 </p>
 
